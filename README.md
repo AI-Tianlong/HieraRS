@@ -42,9 +42,9 @@ MM-5B: Multi-Modal Five-Billion-Pixels is a large-scale, multi-modal, hierarchic
 
 <p>
 MM-5B download links: 
-  <a href="https://pan.baidu.com/s/1U5yjf7t1-RuaWMPOhSA1ow?pwd=MM5B">📁 Baidu Netdisk</a> |
-  <a href="#">Google Drive</a> |
-  <a href="#">Zenodo</a>
+  <a href="https://pan.baidu.com/s/1U5yjf7t1-RuaWMPOhSA1ow?pwd=MM5B"><img src="figures/logo/百度网盘.png" alt="Baidu Netdisk Logo" height="18" style="vertical-align:middle;"> Baidu Netdisk</a> |
+  <a href="#"><img src="figures/logo/GoogleDrive.png" alt="Google Drive Logo" height="18" style="vertical-align:middle;"> Google Drive</a> |
+  <a href="#"><img src="figures/logo/Zenodo.png" alt="Zenodo Logo" height="18" style="vertical-align:middle;"> Zenodo</a>
 </p>
 
 > ℹ️ 
@@ -68,9 +68,9 @@ MM-5B download links:
 
 <p>
 Crop10m download links: 
-  <a href="https://pan.baidu.com/s/1fonBgDyASDtKD4uFb705Sg?pwd=CROP">📁 Baidu Netdisk</a> |
-  <a href="#">Google Drive</a> |
-  <a href="#">Zenodo</a>
+  <a href="https://pan.baidu.com/s/1fonBgDyASDtKD4uFb705Sg?pwd=CROP"><img src="figures/logo/百度网盘.png" alt="Baidu Netdisk Logo" height="18" style="vertical-align:middle;"> Baidu Netdisk</a> |
+  <a href="#"><img src="figures/logo/GoogleDrive.png" alt="Google Drive Logo" height="18" style="vertical-align:middle;"> Google Drive</a> |
+  <a href="#"><img src="figures/logo/Zenodo.png" alt="Zenodo Logo" height="18" style="vertical-align:middle;"> Zenodo</a>
 </p>
 
 
