@@ -58,13 +58,6 @@ MM-5B download links:
 <blockquote>
 <strong>Crop10m:</strong> This dataset is used for crop classification experiments and originates from a cross-domain task presented in the paper. The labels are derived from the annual crop classification product proposed by <a href="https://www.nature.com/articles/s41597-021-00827-9">You et al.</a> The Sentinel-2 remote sensing imagery used was collected over Heilongjiang Province in northeastern China, covering cloud-free scenes from July to October 2019.
 </blockquote>  
-<br>
-<p>
-Crop10m download links: 
-  <a href="https://pan.baidu.com/s/1fonBgDyASDtKD4uFb705Sg?pwd=CROP">📁 Baidu Netdisk</a> |
-  <a href="#">Google Drive</a> |
-  <a href="#">Zenodo</a>
-</p>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -73,6 +66,12 @@ Crop10m download links:
   </tr>
 </table>
 
+<p>
+Crop10m download links: 
+  <a href="https://pan.baidu.com/s/1fonBgDyASDtKD4uFb705Sg?pwd=CROP">📁 Baidu Netdisk</a> |
+  <a href="#">Google Drive</a> |
+  <a href="#">Zenodo</a>
+</p>
 
 
 > ℹ️ If you use Crop10m in your research, we kindly request that you also cite the dataset it is based on: [*The 10-m crop type maps in  Northeast China during 2017–2019*](https://www.nature.com/articles/s41597-021-00827-9) 
