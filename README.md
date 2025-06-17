@@ -49,5 +49,5 @@ MM-5B: Multi-Modal Five-Billion-Pixels is a large-scale, multi-modal, hierarchic
 ## 🥰 Acknowledgement
 We thank [Five-Billion-Pixels](https://x-ytong.github.io/project/Five-Billion-Pixels.html) for providing a high-quality dataset to the remote sensing community, and [‌OpenMMLab](https://github.com/open-mmlab) for their powerful and feature-rich open-source libraries.
 
-## ⭐Stargazers over time
+## 🌟Stargazers over time
 <img src='https://starchart.cc/AI-Tianlong/HieraRS.svg?variant=light' width='70%'/>
