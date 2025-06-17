@@ -30,15 +30,6 @@
 
 ## 📅 TODO List
 
-
-<p align="center">
-  <img src="https://github.com/HIT-SIRS/EarthMapper/blob/main/assets/flowchart.svg" alt="EarthMapper Architecture">
-</p>
-
-## 🏆 Contributions  
-
-
-
 ## 🗺 MM-5B Dataset
 MM-5B: Multi-Modal Five-Billion-Pixels is a large-scale, multi-modal, hierarchical Land Cover and Land Use (LCLU) dataset, built upon the [Five-Billion-Pixels](https://x-ytong.github.io/project/Five-Billion-Pixels.html) foundation.
 
