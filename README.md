@@ -40,42 +40,36 @@ MM-5B: Multi-Modal Five-Billion-Pixels is a large-scale, multi-modal, hierarchic
   <img src="figures/1-MM-5B.png" alt="MM-5B Dataset">
 </p>
 
-- [x] [Baidu Netdisk](https://pan.baidu.com/s/1U5yjf7t1-RuaWMPOhSA1ow?pwd=MM5B): (only available in China region, extraction code: MM5B)
-- [ ] [Google Drive](https://pan.baidu.com/s/1U5yjf7t1-RuaWMPOhSA1ow?pwd=MM5B)
-- [ ] [Zendo](https://pan.baidu.com/s/1U5yjf7t1-RuaWMPOhSA1ow?pwd=MM5B)
+<p>
+  <a href="https://pan.baidu.com/s/1U5yjf7t1-RuaWMPOhSA1ow?pwd=MM5B">📁 Baidu Netdisk</a> |
+  <a href="#">Google Drive</a> |
+  <a href="#">Zenodo</a>
+</p>
 
 > ℹ️ 
  If you use MM-5B in your research, we kindly request that you also cite the dataset it is based on: [Five-Billion-Pixels](https://x-ytong.github.io/project/Five-Billion-Pixels.html).
 
 ## 🌾 Crop10m Dataset
-
-<!-- 
-Crop10m: This dataset is used for crop classification experiments and originates from a cross-domain task presented in the paper. The labels are derived from the annual crop classification product proposed by <a href="https://www.nature.com/articles/s41597-021-00827-9">You et al.</a> The Sentinel-2 remote sensing imagery used was collected over Heilongjiang Province in northeastern China, covering cloud-free scenes from July to October 2019.<br>
-
-<div align="right">
-  <img src="figures/2-Crop10m-area.png" alt="Crop10m Area" width="200px">
-</div>
-
-<a href="https://pan.baidu.com/s/1fonBgDyASDtKD4uFb705Sg?pwd=CROP" style="padding:6px 16px;background:#4CAF50;color:white;border-radius:4px;text-decoration:none;">Baidu Netdisk</a>
-<a href="" style="padding:6px 16px;background:#bbb;color:white;border-radius:4px;text-decoration:none;">Google Drive</a>
-<a href="#" style="padding:6px 16px;background:#bbb;color:white;border-radius:4px;text-decoration:none;">Zendo</a> -->
-
-
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <blockquote>
-        Crop10m: This dataset is used for crop classification experiments and originates from a cross-domain task presented in the paper. The labels are derived from the annual crop classification product proposed by <a href="https://www.nature.com/articles/s41597-021-00827-9">You et al.</a> The Sentinel-2 remote sensing imagery used was collected over Heilongjiang Province in northeastern China, covering cloud-free scenes from July to October 2019.
-      </blockquote>
-      <a href="https://pan.baidu.com/s/1fonBgDyASDtKD4uFb705Sg?pwd=CROP" style="padding:6px 16px;background:#4CAF50;color:white;border-radius:4px;text-decoration:none;">Baidu Netdisk</a>
-      <a href="#" style="padding:6px 16px;background:#bbb;color:white;border-radius:4px;text-decoration:none;">Google Drive</a>
-      <a href="#" style="padding:6px 16px;background:#bbb;color:white;border-radius:4px;text-decoration:none;">Zendo</a>
-    </td>
-    <td width="35%" align="right" valign="top">
-      <img src="figures/2-Crop10m-area.png" alt="Crop10m Area" width="180px">
-    </td>
+    <td width="50%" valign="top">
+
+<blockquote>
+<strong>Crop10m:</strong> This dataset is used for crop classification experiments and originates from a cross-domain task presented in the paper. The labels are derived from the annual crop classification product proposed by <a href="https://www.nature.com/articles/s41597-021-00827-9">You et al.</a> The Sentinel-2 remote sensing imagery used was collected over Heilongjiang Province in northeastern China, covering cloud-free scenes from July to October 2019.
+</blockquote>  
+
+<p>
+  <a href="https://pan.baidu.com/s/1fonBgDyASDtKD4uFb705Sg?pwd=CROP">📁 Baidu Netdisk</a> |
+  <a href="#">Google Drive</a> |
+  <a href="#">Zenodo</a>
+</p>
+</td>
+<td width="50%" valign="top" align="center">
+  <img src="figures/2-Crop10m-area.png" alt="Crop10m Area" width="100%">
+</td>
   </tr>
 </table>
+
 
 
 > ℹ️ If you use Crop10m in your research, we kindly request that you also cite the dataset it is based on: [*The 10-m crop type maps in  Northeast China during 2017–2019*](https://www.nature.com/articles/s41597-021-00827-9) 
