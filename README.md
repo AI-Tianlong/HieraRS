@@ -3,7 +3,7 @@
     <a href="https://github.com/AI-Tianlong" target="_blank">Tianlong Ai</a>, 
     Tianzhu Liu, 
     <a href="https://github.com/JHC626" target="_blank">Haochen Jiang</a>, 
-    and Yanfeng Gu*
+    and Yanfeng Gu
 </em></h5>
 <h5 align="center"><em>
     Harbin Institute of Technology
@@ -26,6 +26,7 @@ Hierarchical land cover and land use (LCLU) classification aims to assign pixel-
 
 ## 📅 TODO List
 - [ ] Release MM-5B dataset
+- [ ] Release Crop10m dataset
 - [ ] Release HieraRS code
 - [ ] Release HieraRS weights
 
@@ -43,11 +44,54 @@ MM-5B: Multi-Modal Five-Billion-Pixels is a large-scale, multi-modal, hierarchic
 - [ ] [Google Drive](https://pan.baidu.com/s/1U5yjf7t1-RuaWMPOhSA1ow?pwd=MM5B)
 - [ ] [Zendo](https://pan.baidu.com/s/1U5yjf7t1-RuaWMPOhSA1ow?pwd=MM5B)
 
-> ℹ️ If you use MM-5B in your research, we kindly ask that you also cite the [Five-Billion-Pixels](https://x-ytong.github.io/project/Five-Billion-Pixels.html) dataset on which it is based.
+> ℹ️ 
+ If you use MM-5B in your research, we kindly request that you also cite the dataset it is based on: [Five-Billion-Pixels](https://x-ytong.github.io/project/Five-Billion-Pixels.html).
+
+## 🌾 Crop10m Dataset
+
+<!-- 
+Crop10m: This dataset is used for crop classification experiments and originates from a cross-domain task presented in the paper. The labels are derived from the annual crop classification product proposed by <a href="https://www.nature.com/articles/s41597-021-00827-9">You et al.</a> The Sentinel-2 remote sensing imagery used was collected over Heilongjiang Province in northeastern China, covering cloud-free scenes from July to October 2019.<br>
+
+<div align="right">
+  <img src="figures/2-Crop10m-area.png" alt="Crop10m Area" width="200px">
+</div>
+
+<a href="https://pan.baidu.com/s/1fonBgDyASDtKD4uFb705Sg?pwd=CROP" style="padding:6px 16px;background:#4CAF50;color:white;border-radius:4px;text-decoration:none;">Baidu Netdisk</a>
+<a href="" style="padding:6px 16px;background:#bbb;color:white;border-radius:4px;text-decoration:none;">Google Drive</a>
+<a href="#" style="padding:6px 16px;background:#bbb;color:white;border-radius:4px;text-decoration:none;">Zendo</a> -->
+
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <blockquote>
+        Crop10m: This dataset is used for crop classification experiments and originates from a cross-domain task presented in the paper. The labels are derived from the annual crop classification product proposed by <a href="https://www.nature.com/articles/s41597-021-00827-9">You et al.</a> The Sentinel-2 remote sensing imagery used was collected over Heilongjiang Province in northeastern China, covering cloud-free scenes from July to October 2019.
+      </blockquote>
+      <a href="https://pan.baidu.com/s/1fonBgDyASDtKD4uFb705Sg?pwd=CROP" style="padding:6px 16px;background:#4CAF50;color:white;border-radius:4px;text-decoration:none;">Baidu Netdisk</a>
+      <a href="#" style="padding:6px 16px;background:#bbb;color:white;border-radius:4px;text-decoration:none;">Google Drive</a>
+      <a href="#" style="padding:6px 16px;background:#bbb;color:white;border-radius:4px;text-decoration:none;">Zendo</a>
+    </td>
+    <td width="35%" align="right" valign="top">
+      <img src="figures/2-Crop10m-area.png" alt="Crop10m Area" width="180px">
+    </td>
+  </tr>
+</table>
+
+
+> ℹ️ If you use Crop10m in your research, we kindly request that you also cite the dataset it is based on: [*The 10-m crop type maps in  Northeast China during 2017–2019*](https://www.nature.com/articles/s41597-021-00827-9) 
+
+
+## Visualization
+Experimental Results Visualization on the MM-5B Dataset (GaoFen-2 Satellite Data).
+![MM-5B-GaoFen-2](figures/3-GaoFen2.png)
+
+Experimental Results Visualization on the Crop10m Dataset.
+![Crop10m](figures/4-Crop10m.png)
 
 
 ## 🥰 Acknowledgement
-We thank [Five-Billion-Pixels](https://x-ytong.github.io/project/Five-Billion-Pixels.html) for providing a high-quality dataset to the remote sensing community, and [‌OpenMMLab](https://github.com/open-mmlab) for their powerful and feature-rich open-source libraries.
+We thank [Tong et al.](https://x-ytong.github.io/project/Five-Billion-Pixels.html) and [You et al.](https://www.nature.com/articles/s41597-021-00827-9) for providing high-quality datasets to the remote sensing community.
+We are deeply grateful to every contributor of [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) and [‌OpenMMLab](https://github.com/open-mmlab) for offering such robust and versatile open-source frameworks.
 
 ## 🌟Stargazers over time
 <img src='https://starchart.cc/AI-Tianlong/HieraRS.svg?variant=light' width='70%'/>
