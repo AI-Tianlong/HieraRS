@@ -51,3 +51,6 @@ We thank [Five-Billion-Pixels](https://x-ytong.github.io/project/Five-Billion-Pi
 
 ## 🌟Stargazers over time
 <img src='https://starchart.cc/AI-Tianlong/HieraRS.svg?variant=light' width='70%'/>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AI-Tianlong.HieraRS&left_color=%236C7E6&right_color=%23CEE75F)
+
+
