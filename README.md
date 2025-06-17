@@ -3,14 +3,11 @@
     <a href="https://github.com/AI-Tianlong" target="_blank">Tianlong Ai</a>, 
     Tianzhu Liu, 
     <a href="https://github.com/JHC626" target="_blank">Haochen Jiang</a>, 
-    Yanfeng Gu
+    and Yanfeng Gu*
 </em></h5>
 <h5 align="center"><em>
     Harbin Institute of Technology
 </em></h5>
-
-
- 
 
 
 ![](https://i.imgur.com/waxVImv.png)
@@ -25,7 +22,7 @@ Hierarchical land cover and land use (LCLU) classification aims to assign pixel-
 ---
 
 ## 📢 Latest Updates 
-- **June-17-2025**:  HieraRS repository created. [GitHub link](https://github.com/AI-Tianlong/HieraRS).
+- **June-17-2025**:  HieraRS repository created. [![HieraRS stars](https://img.shields.io/github/stars/AI-Tianlong/HieraRS)](https://github.com/AI-Tianlong/HieraRS)
 
 ## 📅 TODO List
 - [ ] Release MM-5B dataset
