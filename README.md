@@ -22,8 +22,8 @@ Hierarchical land cover and land use (LCLU) classification aims to assign pixel-
 ---
 
 ## 📢 Latest Updates 
-- **June-17-2025**:  HieraRS repository created. [![HieraRS stars](https://img.shields.io/github/stars/AI-Tianlong/HieraRS)](https://github.com/AI-Tianlong/HieraRS)
-
+- **June-17-2025**: HieraRS repository created. [![HieraRS stars](https://img.shields.io/github/stars/AI-Tianlong/HieraRS)](https://github.com/AI-Tianlong/HieraRS)
+- **July-11-2025**: The paper was released on arxiv. [![HieraRS arxiv](https://img.shields.io/badge/HieraRS-paper?style=social&logo=arxiv)](https://arxiv.org/abs/2507.08741)
 ## 📅 TODO List
 - [ ] Release MM-5B dataset
 - [ ] Release Crop10m dataset
