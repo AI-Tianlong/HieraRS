@@ -21,7 +21,7 @@
 -->
 ![](https://i.imgur.com/waxVImv.png)
 <p align="center">
-  <a href="https://arxiv.org/abs/2507.08741"><img src="https://img.shields.io/badge/HieraRS-paper?style=social&logo=arxiv" alt="HieraRS arxiv"></a>
+  <a href="https://arxiv.org/abs/2507.08741"><img src="https://img.shields.io/badge/arxiv-HieraRS?style=social&logo=arxiv" alt="HieraRS arxiv"></a>
 </p>
 
 
