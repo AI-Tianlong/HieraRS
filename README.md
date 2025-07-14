@@ -9,6 +9,8 @@
     Harbin Institute of Technology
 </em></h5>
 
+
+<!--
 <p align="center">
   <a href="#Abstract">Abstract</a> |
   <a href="#📢-Latest-Updates ">News</a> |
@@ -16,8 +18,11 @@
   <a href="#🌾-Crop10m-Dataset">Crop10m</a> |
   <a href="#🥰-Acknowledgement">Statement</a>
 </p>
-
+-->
 ![](https://i.imgur.com/waxVImv.png)
+<p align="center">
+  <a href="https://arxiv.org/abs/2507.08741"><img src="https://img.shields.io/badge/HieraRS-paper?style=social&logo=arxiv" alt="HieraRS arxiv"></a>
+</p>
 
 
 
