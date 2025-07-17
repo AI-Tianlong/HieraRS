@@ -108,7 +108,7 @@ We are deeply grateful to every contributor of [MMSegmentation](https://github.c
 if you find it helpful, please cite
 ```bibtex
 @article{HieraRS_2025,
-  title={Cross-Modal Bidirectional Interaction Model for Referring Remote Sensing Image Segmentation},
+  title={HieraRS: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multi-Granularity Interpretation and Cross-Domain Transfer},
   author={Tianlong Ai, Tianzhu Liu, Haochen Jiang and Yanfeng Gu},
   journal={arXiv:2507.08741},
   year={2025}
