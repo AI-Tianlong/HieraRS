@@ -104,6 +104,17 @@ Experimental Results Visualization on the Crop10m Dataset.
 We thank [Tong et al.](https://x-ytong.github.io/project/Five-Billion-Pixels.html) and [You et al.](https://www.nature.com/articles/s41597-021-00827-9) for providing high-quality datasets to the remote sensing community.
 We are deeply grateful to every contributor of [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) and [‌OpenMMLab](https://github.com/open-mmlab) for offering such robust and versatile open-source frameworks.
 
+## 📜 Citation
+if you find it helpful, please cite
+```bibtex
+@article{HieraRS_2025,
+  title={Cross-Modal Bidirectional Interaction Model for Referring Remote Sensing Image Segmentation},
+  author={Tianlong Ai, Tianzhu Liu, Haochen Jiang and Yanfeng Gu},
+  journal={arXiv:2507.08741},
+  year={2025}
+}
+```
+
 ## 🌟Stargazers over time
 <img src='https://starchart.cc/AI-Tianlong/HieraRS.svg?variant=light' width='70%'/>
 
