@@ -110,7 +110,7 @@ if you find it helpful, please cite
 @article{HieraRS_2025,
   title={HieraRS: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multi-Granularity Interpretation and Cross-Domain Transfer},
   author={Tianlong Ai, Tianzhu Liu, Haochen Jiang and Yanfeng Gu},
-  journal={arXiv:2507.08741},
+  journal={arXiv preprint arXiv:2507.08741},
   year={2025}
 }
 ```
