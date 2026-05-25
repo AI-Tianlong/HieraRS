@@ -107,12 +107,17 @@ We are deeply grateful to every contributor of [MMSegmentation](https://github.c
 ## 📜 Citation
 if you find it helpful, please cite
 ```bibtex
-@article{HieraRS_2025,
-  title={HieraRS: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multi-Granularity Interpretation and Cross-Domain Transfer},
-  author={Tianlong Ai, Tianzhu Liu, Haochen Jiang and Yanfeng Gu},
-  journal={arXiv preprint arXiv:2507.08741},
-  year={2025}
-}
+@ARTICLE{11433806,
+  author={Ai, Tianlong and Liu, Tianzhu and Jiang, Haochen and Gu, Yanfeng},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={HieraRS: A Hierarchical Segmentation Paradigm for Remote Sensing Enabling Multigranularity Interpretation and Cross-Domain Transfer}, 
+  year={2026},
+  volume={64},
+  number={},
+  pages={1-19},
+  keywords={Semantics;Land surface;Adaptation models;Predictive models;Spatial resolution;Crops;Sentinel-2;Benchmark testing;Annotations;Semantic segmentation;Cross-domain transfer;hierarchical classification;land cover and land use (LCLU);multigranularity prediction},
+  doi={10.1109/TGRS.2026.3673962}}
+
 ```
 
 ## 🌟Stargazers over time
