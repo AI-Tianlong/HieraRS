@@ -37,7 +37,9 @@ Hierarchical land cover and land use (LCLU) classification aims to assign pixel-
 - **June-17-2025**: HieraRS repository created. [![HieraRS stars](https://img.shields.io/github/stars/AI-Tianlong/HieraRS)](https://github.com/AI-Tianlong/HieraRS)
 - **July-11-2025**: The paper was released on arxiv. [![HieraRS arxiv](https://img.shields.io/badge/HieraRS-paper?style=social&logo=arxiv)](https://arxiv.org/abs/2507.08741)
 ## 📅 TODO List
-- [ ] Release MM-5B dataset
+- [X] Release MM-5B dataset Sentinel-2 Source
+- [ ] Release MM-5B dataset GF-2 Source
+- [ ] Release MM-5B dataset Google Source
 - [ ] Release Crop10m dataset
 - [ ] Release HieraRS code
 - [ ] Release HieraRS weights
@@ -55,7 +57,7 @@ MM-5B: Multi-Modal Five-Billion-Pixels is a large-scale, multi-modal, hierarchic
 <p>
 MM-5B download links: 
   <a href="https://pan.baidu.com/s/1U5yjf7t1-RuaWMPOhSA1ow?pwd=MM5B"><img src="figures/logo/Baidu.png" alt="Baidu Netdisk Logo" height="18" style="vertical-align:middle;"> Baidu Netdisk</a> |
-  <a href="#"><img src="figures/logo/GoogleDrive.png" alt="Google Drive Logo" height="18" style="vertical-align:middle;"> Google Drive</a> |
+  <a href="https://drive.google.com/drive/folders/1bjtj_SBGS6x-JK2t4qkFItb2QHk1ocs9?usp=drive_link"><img src="figures/logo/GoogleDrive.png" alt="Google Drive Logo" height="18" style="vertical-align:middle;"> Google Drive</a> |
   <a href="#"><img src="figures/logo/Zenodo.png" alt="Zenodo Logo" height="18" style="vertical-align:middle;"> Zenodo</a>
 </p>
 
