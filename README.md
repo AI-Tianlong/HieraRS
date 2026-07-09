@@ -20,12 +20,9 @@
 </p>
 -->
 ![](https://i.imgur.com/waxVImv.png)
-<p align="center">
-  <a href="https://arxiv.org/abs/2507.08741"><img src="https://img.shields.io/badge/arxiv-HieraRS?style=social&logo=arxiv" alt="HieraRS arxiv"></a>
-</p>
-
-
-
+<!-- <p align="center">
+  <a href="https://ieeexplore.ieee.org/document/11433806"><img src="https://img.shields.io/badge/HieraRS-paper?style=social&logo=ieee" alt="HieraRS TGRS"></a>
+</p> -->
 
 
 ## Abstract
@@ -36,6 +33,7 @@ Hierarchical land cover and land use (LCLU) classification aims to assign pixel-
 ## 📢 Latest Updates 
 - **June-17-2025**: HieraRS repository created. [![HieraRS stars](https://img.shields.io/github/stars/AI-Tianlong/HieraRS)](https://github.com/AI-Tianlong/HieraRS)
 - **July-11-2025**: The paper was released on arxiv. [![HieraRS arxiv](https://img.shields.io/badge/HieraRS-paper?style=social&logo=arxiv)](https://arxiv.org/abs/2507.08741)
+- **March 11, 2026**: Our paper was accepted by *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*. [![HieraRS IEEE](https://img.shields.io/badge/HieraRS-paper?style=social&logo=ieee)](https://ieeexplore.ieee.org/document/11433806)
 ## 📅 TODO List
 - [X] Release MM-5B dataset Sentinel-2 Source
 - [ ] Release MM-5B dataset GF-2 Source
